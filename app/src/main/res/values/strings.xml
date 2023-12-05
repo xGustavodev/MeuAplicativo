@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Contabilizador De Agua</string>
-    <string name="hint_texto">Selecione nos botões abaixo a quantidade de água ingerida</string>
     <string name="peq">50ml</string>
     <string name="med">100ml</string>
     <string name="grand">500ml</string>
@@ -11,6 +10,6 @@
     <string name="txt_doispontos">:</string>
     <string name="txt_minutos">00</string>
     <string name="undo">Desfazer</string>
-    <string name="dialog_titulo">Redefinir Dados</string>
-    <string name="dialog_descricao">Deseja zerar o contador?</string>
+    <string name="txt">Selecione nos botões abaixo a quantidade de água ingerida</string>
+    <string name="mensagem_alarme">Hora de beber água</string>
 </resources>
